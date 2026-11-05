@@ -1,4 +1,5 @@
 # AHOOK
+[![Listed on HookMCP](https://hookmcp.com/badge.svg)](https://hookmcp.com)
 
 Webhooks designed for agents.
 
