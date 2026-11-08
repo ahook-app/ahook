@@ -32,4 +32,4 @@ Inbox-scoped tools use an `Authorization: Bearer <read token>` header. `create_i
 
 ## Pricing
 
-Free tier, plus Starter $7/mo and Growth $19/mo. Details at https://ahook.app.
+Free tier (1 inbox, 100 events, 100 MB, never expires), plus $1/month a la carte (or $10/year, save 20%). Details at https://ahook.app.
