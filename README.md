@@ -32,4 +32,4 @@ Inbox-scoped tools use an `Authorization: Bearer <read token>` header. `create_i
 
 ## Pricing
 
-Free tier (1 inbox, 100 events, 100 MB, never expires), plus $1/month a la carte (or $10/year, save 20%). Details at https://ahook.app.
+Free tier (1 inbox, 100 events, 100 MB, never expires), plus $1/month a la carte (or $10/year, save 20%). The $1 base includes 1 inbox, 1 custom domain, 1 GB storage, 100 outbound emails/month, and 1,000 inbound events/month. Extra: $1 per 10 inboxes, $1 per 10 custom domains, $1 per 10 GB storage, $1 per 1,000 outbound emails, $1 per 10,000 inbound events. Details at https://ahook.app.
